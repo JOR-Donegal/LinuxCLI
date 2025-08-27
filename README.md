@@ -9,3 +9,5 @@ In DOS, we have a command processor. It may be a little more complex under Windo
 In our UNIX examples, we use the bash shell, however there are many others in common use including the Bourne Shell and the C Shell. Each command at the command prompt refers to a programme or routine within the operating system. With some commands it is possible to include parameters after the command, these are referred to as arguments.
 
 When you type a command, you run that programme and when it terminates, the shell gives the user another prompt. A user can customise their own shell, and users can use different shells on the same machine. The shell keeps a list of the commands you have typed in. If you need to repeat a command, use the cursor keys to scroll up and down the list or type history for a list of previous commands.
+
+If you need detailed help at any time, every Linux system has manual pages. When you are doing exercises later on a live system, type the **man** command and do a little research on it.
