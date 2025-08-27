@@ -5,6 +5,7 @@
   * [Deliverables](background/deliverables.md)
   * [Command Line Interface](background/command-line-interface.md)
   * [Working Environment](background/working-environment.md)
+  * [History](background/history.md)
 * [Organizing Information](organizing-information/README.md)
   * [Directories and File Structures](organizing-information/directories-and-file-structures.md)
   * [Hidden Files](organizing-information/hidden-files.md)
@@ -17,4 +18,3 @@
   * [Input and Output Redirection](organizing-information/input-and-output-redirection.md)
   * [File Permissions](organizing-information/file-permissions.md)
   * [Moving Files](organizing-information/moving-files.md)
-* [History](history.md)
